@@ -1,3 +1,19 @@
+# Requirements
+
+# Frameworks
+pydantic
+
+
+# OpenAI
 openai
 python-dotenv
 requests
+
+# Notebooks
+ipykernel
+jupyter
+# ipywidgets
+# pandas
+# numpy
+# matplotlib
+# seaborn
