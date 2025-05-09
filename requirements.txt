@@ -11,6 +11,7 @@ requests
 
 # Notebooks
 ipykernel
+IPython
 jupyter
 # ipywidgets
 # pandas
