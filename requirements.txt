@@ -18,3 +18,15 @@ jupyter
 # numpy
 # matplotlib
 # seaborn
+
+# Pre-commit
+pre-commit
+
+# Testing
+pytest
+pytest-mock
+pytest-cov
+
+# Other
+tenacity
+structlog
